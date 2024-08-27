@@ -1,2 +1,3 @@
 # tictacs-frontend
-The front-end repo for the tictacs project. This is our qualifying 
+Front end repo for a multiplayer tic-tac-toe game.
+This is our project submission for the qualifying round of the ALX SE Face Off competition(2024)
