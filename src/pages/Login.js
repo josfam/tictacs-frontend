@@ -24,10 +24,11 @@ function Login() {
             body: JSON.stringify({ username, password }),
           });
           const info = await response.json();
-      
+
           if (response.ok)
           {
             alert(info.message);
+            window.location.href = '/';
           } else {
             alert(info.message);
           }
